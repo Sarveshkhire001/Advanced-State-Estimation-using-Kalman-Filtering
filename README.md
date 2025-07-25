@@ -24,11 +24,11 @@ Provides utilities for initializing data storage lists, appending simulation res
 
 #### plotting_utils.py:
 
-(Assumed to contain helper functions for plotting, such as plot_ellipse, which is used to visualize uncertainty ellipses in 2D projections).
+Contains helper functions for plotting, such as plot_ellipse, which is used to visualize uncertainty ellipses in 2D projections.
 
 #### brute_force.py:
 
-(Assumed to contain the brute_force function, which implements a brute-force approach for data association in multi-object tracking scenarios).
+Contains the brute_force function, which implements a brute-force approach for data association in multi-object tracking scenarios.
 
 #### single_plane.py:
 
